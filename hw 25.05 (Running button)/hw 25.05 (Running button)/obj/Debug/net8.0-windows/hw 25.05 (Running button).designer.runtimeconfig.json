@@ -1,0 +1,23 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0-preview.2.23128.3"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0-preview.2.23128.5"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\mikha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mikha\\.nuget\\packages",
+      "E:\\Приложения\\VisualStudio\\VS\\SDK\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

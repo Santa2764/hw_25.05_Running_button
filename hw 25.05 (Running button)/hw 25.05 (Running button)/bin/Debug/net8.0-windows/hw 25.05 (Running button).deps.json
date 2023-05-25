@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hw 25.05 (Running button)/1.0.0": {
+        "runtime": {
+          "hw 25.05 (Running button).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw 25.05 (Running button)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

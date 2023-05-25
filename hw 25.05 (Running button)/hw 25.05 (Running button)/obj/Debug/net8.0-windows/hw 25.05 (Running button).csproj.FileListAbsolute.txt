@@ -1,0 +1,17 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\bin\Debug\net8.0-windows\hw 25.05 (Running button).exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\bin\Debug\net8.0-windows\hw 25.05 (Running button).deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\bin\Debug\net8.0-windows\hw 25.05 (Running button).runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\bin\Debug\net8.0-windows\hw 25.05 (Running button).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\bin\Debug\net8.0-windows\hw 25.05 (Running button).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw_25._05__Running_button_.Form1.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).csproj.GenerateResource.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\refint\hw 25.05 (Running button).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\hw 25.05 (Running button).genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\hw 25.05 (Running button)\hw 25.05 (Running button)\obj\Debug\net8.0-windows\ref\hw 25.05 (Running button).dll
